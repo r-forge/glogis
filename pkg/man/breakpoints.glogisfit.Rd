@@ -74,9 +74,9 @@
   from the \pkg{strucchange} package but employing user-defined estimation methods.
 
   Optional support for high performance computing is available in the \code{breakpoints}
-  method, currently using \code{\link[foreach]{foreach}} for the dynamic programming algorithm.
+  method based on the \pkg{foreach} package for the dynamic programming algorithm.
   If \code{hpc = "foreach"} is to be used, a parallel backend should be registered
-  before. See \code{\link[foreach]{foreach}} for more information.
+  before. See \code{\link[strucchange]{breakpoints}} for more information.
 }
 
 \value{
