@@ -90,7 +90,7 @@
 
   Zeileis A, Shah A, Patnaik I (2010). Testing, Monitoring, and Dating Structural
   Changes in Exchange Rate Regimes. \emph{Computational Statistics and Data Analysis},
-  \bold{54}(6), 1696--1706. \url{http://dx.doi.org/10.1016/j.csda.2009.12.005}.
+  \bold{54}(6), 1696--1706. \doi{10.1016/j.csda.2009.12.005}.
 }
 
 \seealso{\code{\link{glogisfit}}, \code{\link[fxregime]{fxregimes}}, \code{\link[strucchange]{breakpoints}}}
